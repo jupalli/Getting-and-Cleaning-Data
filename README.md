@@ -52,7 +52,6 @@ test_set_variable <- read.table("./test/X_test.txt", strip.white=T)
 
 
 #Creates tidy data set with the average of each variable for each activity and each subject
-# and write this data a table
 
 
 ==================================================================
