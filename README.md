@@ -1,5 +1,4 @@
-Tidy data set containing only mean and standard deviation measurements of data 
-collected in "Human Activity Recognition Using Smartphones Dataset" project
+Tidy data set containing only mean and standard deviation measurements of data collected in "Human Activity Recognition Using Smartphones Dataset" project
 ==================================================================
 Rama Jupalli
 ==================================================================
