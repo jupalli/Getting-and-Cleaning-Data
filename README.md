@@ -30,7 +30,6 @@ Only Time-domian signals were included in the analysis as Fourier transform of t
 10. The tidy set contains following signals for each subject: 
 
 Time-domain-X-axis-body-accelration-raw-signal-mean
-
 Time-domain-Y-axis-body-accelration-raw-signal-mean
 
 Time-domain-Z-axis-body-accelration-raw-signal-mean
