@@ -27,28 +27,14 @@ Only Time-domian signals were included in the analysis as Fourier transform of t
 
 6. Merged/combined test and trainigns set to create a one data set
 
-
 7. Renamed activity names with thier descriptive activity names (e.g. 1= WALKING, 2=WALKING_UPSTAIRS, etc..) in the dataset
 
 8. Column names in the combined data set were replaced with more descriptive names 
 
-
-
 9. Finally crated a tidy set that contains one record for each variable for each activity and each subject
-
-
-
-
-==================================================================
-Rama Jupalli
-==================================================================
-
-
-
 
 The dataset includes the following files:
 =========================================
-
 - 'README.md'
 
 - 'run_analysis.R': R script showing commands followed to create the tidy data set
@@ -57,5 +43,4 @@ The dataset includes the following files:
 
 Notes: 
 ======
-
 For more information about this dataset contact: Rama Jupalli
