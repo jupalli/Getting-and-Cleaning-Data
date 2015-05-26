@@ -1,6 +1,9 @@
 Tiday data set contains following variables:
+
 Subject: ID of the Subject/volunteer
+
 Activity: Activity subject performing while data was captured
+
 Following signals: 
 
 Time-domain-X-axis-body-accelration-raw-signal-mean
